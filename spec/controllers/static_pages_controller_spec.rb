@@ -16,4 +16,5 @@ describe StaticPagesController do
     end
   end
 
+
 end
