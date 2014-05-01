@@ -35,7 +35,7 @@
       <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.37873754" vertical-offset="0" max-vertical-offset="903">
+            <state line="11" column="74" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2192691" vertical-offset="0" max-vertical-offset="903">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="user_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="-24.0" vertical-offset="108" max-vertical-offset="1908">
+            <state line="85" column="7" selection-start="2373" selection-end="2373" vertical-scroll-proportion="-24.0" vertical-offset="810" max-vertical-offset="2070">
               <folding />
             </state>
           </provider>
@@ -844,9 +844,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="-24.0" vertical-offset="108" max-vertical-offset="1908">
+        <state line="6" column="25" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
           <folding />
         </state>
       </provider>
@@ -858,16 +858,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/spec/models/user_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+        <state line="85" column="7" selection-start="2373" selection-end="2373" vertical-scroll-proportion="-24.0" vertical-offset="810" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.37873754" vertical-offset="0" max-vertical-offset="903">
+        <state line="11" column="74" selection-start="304" selection-end="304" vertical-scroll-proportion="0.2192691" vertical-offset="0" max-vertical-offset="903">
           <folding />
         </state>
       </provider>
